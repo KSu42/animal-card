@@ -1,4 +1,8 @@
-#container {
+img {
+	padding-bottom: 10px;
+	width: 300px;
+}
+.container {
 	border: 1px solid #ddd;
 	/*border-radius: 4px;*/
 	width: 325px;
@@ -7,18 +11,14 @@
 	box-sizing: border-box;
 }
 
-#card {
+.card {
 	border: 1px solid #ddd;
 	padding: 10px;
 	box-sizing: border-box;
 }
 
-img {
-	padding-bottom: 10px;
-	width: 300px;
-}
 
-#facts {
+.facts {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
